@@ -20,4 +20,18 @@ npm run dev
 npm run build
 ```
 ## Process
-![1](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/687b04e2-c2df-4963-b61c-26ffc3ff16ab)
+![1](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/687b04e2-c2df-4963-b61c-26ffc3ff16ab)<br>
+
+![2](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/aeacc55a-6490-475b-a0b0-d72502a7ecf2)<br>
+
+![3](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/88623cd4-d86f-4f37-89e7-fa068826f018)<br>
+
+![4](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/0a6a1af7-8c8b-4ada-a0b1-74d26231a229)<br>
+
+![5](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/0f346403-198e-43dc-8e4c-3219503ec372)<br>
+
+![6](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/835a6acf-ad46-446d-8f32-0204b53ef62b)<br>
+
+![7](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/d1fc23e9-4417-4928-a184-e8ab6319ab8c)<br>
+
+![8](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/4f226200-3785-4610-b02d-c547ae97a22b)
