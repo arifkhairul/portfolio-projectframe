@@ -19,3 +19,5 @@ npm run dev
 # Build for production | [dist] folder
 npm run build
 ```
+## Process
+![1](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/687b04e2-c2df-4963-b61c-26ffc3ff16ab)
