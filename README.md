@@ -50,3 +50,6 @@ npm run build
 ![14](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/638d4cc9-9169-4767-949a-348b79738aa4)<br>
 
 ![15](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/17aa10b5-7078-4b48-858c-2972517b727d)<br>
+
+## Authors
+- [Arif Khairul](https://github.com/arifkhairul)
