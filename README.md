@@ -37,19 +37,15 @@ npm run build
 ![8](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/4f226200-3785-4610-b02d-c547ae97a22b)<br>
 
 ## Overview
-![9](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/c18b5c40-2d93-41af-95bf-8c0539c9d991)<br>
+![9](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/3640acc5-f3a5-474d-ac57-491e7b074982)<br>
 
-![10](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/705fdeb6-ab14-4ab1-966e-0099e8f8e184)<br>
+![10](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/63b99621-7296-4035-8bbe-c9c1f72dc563)<br>
 
-![11](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/b9e77043-c783-49be-bec2-a7beec5ae5f5)<br>
+![11](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/4cf69fa4-6ee2-4423-a928-b66ac3cab1fa)<br>
 
-![12](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/fa77e2f2-ee3d-4e88-9781-527129c01c41)<br>
+![12](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/e0c20de9-5d73-4ae3-85e1-80e0c65f680d)<br>
 
-![13](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/e3045501-b035-4ef4-acd9-24ebdb93e0f2)<br>
-
-![14](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/638d4cc9-9169-4767-949a-348b79738aa4)<br>
-
-![15](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/17aa10b5-7078-4b48-858c-2972517b727d)<br>
+![13](https://github.com/arifkhairul/portfolio-projectframe/assets/126109184/bc1ec65d-0c27-4018-96da-a0972f413f2f)<br>
 
 ## Authors
 - [Arif Khairul](https://github.com/arifkhairul)
